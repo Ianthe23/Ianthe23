@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ianthe23&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ianthe23&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ianthe23&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
