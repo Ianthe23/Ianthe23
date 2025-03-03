@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Maria!
-👩‍💻 Computer Science Student (2nd year) at [Babes-Bolyai University](https://www.cs.ubbcluj.ro) from Cluj-Napoca<br>🏙️ Currently learning about OOP in Java, Logical and Functional Programming, Computer Networks and Databases
+👩‍💻 Computer Science Student (2nd year) at [Babes-Bolyai University](https://www.cs.ubbcluj.ro) from Cluj-Napoca<br>🏙️ Currently learning about Web Development, AI, Design and Programming Environments, Software Engineering and Database Management Systems
 
 
 ## 🌐 Socials:
